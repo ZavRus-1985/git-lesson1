@@ -14,10 +14,13 @@ public class Main {
     public static void main(String[] args) {
 
 
-        int c = 40;
-        int a = numA(10);
-        int b = numB(20);
+        int c = 4000000;
+        int a = numA(10000);
+        int b = numB(200000);
 
+        System.out.println(b-a);
+        System.out.println(b-a);
+        System.out.println(b-a);
         System.out.println(b-a);
     }
 }
